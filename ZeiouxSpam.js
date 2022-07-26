@@ -37,4 +37,4 @@ client.on('message', async (message) => {
   }
   })
 
-M.login('NzY2MzUyOTg3MzQ1NjQ5Nzc0.X4iH1g.c1GX0yiw_hsaS_YpU6vUXuaSOEc') 
+M.login('token') 
